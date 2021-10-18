@@ -1,15 +1,17 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/hidden",
+  "repository": "sermons/hidden",
+  "description": "1Pet3:1-7, The Hidden Person of the Heart",
   "keywords": [
-    "slides"
+    "sermon",
+    "1peter",
+    "marriage"
   ],
   "version": "2.5.8",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "",
-    "cname": "reveal-skel.seanho.com",
+    "cname": "hidden.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
       "id": "22bc761ffc97809b"
@@ -20,14 +22,14 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "Evangelical Chinese Bible Church",
+        "city": "Burnaby",
+        "date": "2021-10-24",
         "duration": 0
       }
     ],
     "slides": [
-      "sample.md"
+      "slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.1.0",
     "mathjax": "https://cdn.jsdelivr.net/npm/mathjax@2",
