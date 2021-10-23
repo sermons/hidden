@@ -29,19 +29,13 @@ C.f. 2:15 ignorant, inconsiderate
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" id="outline" -->
 ## 1 Peter 3:1-7
-1. [(v1-2)](# "ref")
-1. [(v3-4)](# "ref")
-1. [(v5-6)](# "ref")
-1. [(v7)](# "ref")
+1. Winning Without Words [(v1-2)](# "ref")
+1. Strength in Submission [(v3-4)](# "ref")
+1. Mothers in the Faith [(v5-6)](# "ref")
+1. Honour to the Weak [(v7)](# "ref")
 
 >>>
 + 4 **sentences** in Greek
-+ (1) Win without Words (v1-2)
-+ (2) Strength in Submission (v3-4)
-  + Cosmetics (3)
-  + Gentle + Quiet (4)
-+ (3) Mothers in the Faith (5-6)
-+ (4) Husbands (v7)
 
 ---
 Likewise, **wives**, <br>
@@ -142,7 +136,7 @@ ______
 
 ---
 <!-- .slide: data-background="white" -->
-# Does my **daily life** reflect God's **holiness**?
+# Does my **daily life** <br> reflect God's **holiness**?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -331,7 +325,7 @@ Have no **fear** of them, nor be **troubled**
 >>>
 
 ---
-Likewise, **husbands**, **live** with your wives <br>
+Likewise, husbands, **live** with your wives <br>
 in an **understanding** way, 
 
 [1 Peter 3:7a (ESV)](# "rev")
