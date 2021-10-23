@@ -6,7 +6,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Q0
+# How do we find <br> **strength** to endure <br> unjust **suffering**?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -35,6 +35,7 @@ C.f. 2:15 ignorant, inconsiderate
 1. [(v7)](# "ref")
 
 >>>
++ 4 **sentences** in Greek
 + (1) Win without Words (v1-2)
 + (2) Strength in Submission (v3-4)
   + Cosmetics (3)
@@ -46,28 +47,44 @@ C.f. 2:15 ignorant, inconsiderate
 Likewise, **wives**, <br>
 be **subject** to your own husbands,
 
-so that even if some do not **obey** the word, <br>
-they may be **won** without a word 
+[1 Peter 3:1a (ESV)](# "rev")
 
-by the **conduct** of their wives, <br>
-[2](# "ref") 
-when they see your <br>
-**respectful** and **pure** conduct. 
+>>>
++ **own** husband: not "all women to all men"
++ "be subject": position underneath, attitude
+  + not blind **obedience**, servant, slave
+  + **helper**: avail, but wait for his lead
++ most things hubby won't care, delegate
++ sure, willing to submit to good + kind hubby
+  + but also to crooked? 
 
-[1 Peter 3:1-2 (ESV)](# "rev")
+---
+**Servants**, be subject <br>
+to your masters with all **respect**, 
+
+not only to the **good** and gentle <br>
+but also to the **unjust**
+
+[1 Peter 2:18 (ESV)](# "ref")
+
+>>>
++ **respect**: fear (of the Lord)
+
+---
+so that even if some do **not obey** the word, <br>
+they may be **won** without a word <br>
+by the **conduct** of their wives
+
+[1 Peter 3:1b (ESV)](# "rev")
 
 >>>
 + "disobedient": disbelieving / faithless to Word
   - actions / lifestyle, not whether call Chr
-+ sure, willing to submit to good + kind hubby
-  + but also to crooked? 
-+ c.f. 2:18 house servants to master
-
 + "won": profit, gain (biz)
-  - his life / heart is the profit
-  - goal is not to be free from him
-  - but that he repent + become worthy hubby
-  - (if he wants to leave, let him: peace)
++ his life / heart is the profit
++ goal is not to be free from him
++ but that he repent + become worthy hubby
++ (if he wants to leave, let him: peace)
 
 ---
 **Depart**, please, <br>
@@ -78,24 +95,17 @@ lest you be **swept away** with all their sins.
 [Numbers 16:26 (ESV)](# "ref")
 
 >>>
-+ (holy living: not participating in sin)
-+ e.g. Korah rebels: households swept away
-+ if fear for own safety or children's:
-+ get out of situation, seek qual help w/o him knowing
++ holy conduct: not **participating** in sin
++ e.g. **Korah** rebels: **households** swept away
++ if fear for own **safety** or children's:
+  + get **out** of situation
+  + seek qual **help** w/o him knowing
 
 ---
-Likewise, **wives**, <br>
-be **subject** to your own husbands,
-
-so that even if some do not **obey** the word, <br>
-they may be **won** without a word 
-
-by the **conduct** of their wives, <br>
-[2](# "ref") 
 when they see your <br>
 **respectful** and **pure** conduct. 
 
-[1 Peter 3:1-2 (ESV)](# "rev")
+[1 Peter 3:2 (ESV)](# "rev")
 
 >>>
 + "conduct": turning, daily life (not just words)
@@ -108,12 +118,18 @@ when they see your <br>
 + home atmos: whether peaceful + content
   - or bitter + full of conflict
 
+______
 + "respectful + pure": in fear, holy conduct: 
-  - not of him but of God
-  - e.g., reward child's tantrums by reacting
-  - testimony: submit not bc he coerces but bc of reverence for God
-  - *not* doormat: strong bc God calls to holiness
+  + **fear** / awe of God's power + love
+  + desire **purity**: to be holy as God is
+  + **cleanness**
++ not fear of **him** but of God
+  + e.g., reward child's tantrums by reacting
++ **testimony**: submit not bc his **coercion** 
+  + but bc **reverence** for God
++ *not* doormat: **strong** bc God calls to holiness
 
+______
 + "see": watch over, observe: he notices
 + when you were dating / starting out,
   - wanted him to notice you: hairstyle, clothes
@@ -126,10 +142,12 @@ when they see your <br>
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# Does my **daily life** reflect God's **holiness**?
 <!-- .element: class="r-fit-text" -->
 
 >>>
++ #TODO: revise Q1
++ demonstrates **strength**, faith in God
 
 ---
 (outline)
@@ -161,54 +179,73 @@ or the **clothing** you wear —
 but let your adorning be <br>
 the **hidden** person of the **heart**
 
+[1 Peter 3:4a (ESV)](# "rev")
+
+>>>
++ "hidden" (encrypted)
+  + not obfuscated / inscrutable / duplicitous
++ tho men: she makes no sense
+  + tho women: don't understand myself
++ but **covered**: protected, precious, treasured
+
+______
++ "person of heart":
+  + not just inner thoughts / feelings
++ but core of who you are:
+  + the true you, the way God made you
++ made for rl of love w/perfect Father:
+  - immersed in His grace + protection,
+  - responding w/ gentleness + peace
+
+---
+with the imperishable beauty <br>
+of a **gentle** and **quiet** spirit
+
+[1 Peter 3:4b (ESV)](# "rev")
+
+>>>
++ "gentle": **meek**, strength withheld
+  + strong enough to be **accommodating**
++ "quiet": still water, undisturbed, **equanimity**
++ "but that's not **me**!"
+
+---
+"Well-behaved women seldom make history"
+
+[Laurel Thatcher Ulrich](# "ref")
+
+>>>
++ obs of way things **are**, not how **should** be
++ not: **misbehave** to make history
++ but: male-domin history has **overlooked**
+  + powerful **impact** of many gentle + quiet women
+  + who changed history w/o **intending** to
++ *(skip read)*
+
+---
 with the **imperishable** beauty <br>
 of a **gentle** and **quiet** spirit, 
 
 which in God's sight is very **precious**. 
 
-[1 Peter 3:4 (ESV)](# "rev")
+[1 Peter 3:4b-c (ESV)](# "rev")
 
 >>>
-v4: hidden: encrypted
-+ not obfuscated, deliberately indecipherable:
-  - tho men: she makes no sense
-  - tho women: don't understand myself
-+ but covered: protected, precious, treasured
++ S.times think must **fight** for self, win **respect**:
+  - "how **can** I be gentle? **walk** all over me!"
++ or **was** peaceful, until hubby **ruined** it:
+  - "I **am** at peace -- **he** makes me not!"
++ Can't generate by willpower / **trying** harder
+  - **fruit** of your spirit as transformed by HS
++ rooted in **identity** as God's beloved daughter
+  - indep of **circum**: demonstrates **strength**
++ doesn't **decay**, spoil, corrupt
 
-v4: person of heart:
-+ not just inner thoughts / feelings
-  - but core of who you are:
-  - the true you, the way God made you
-+ made for rl of love w/perfect Father:
-  - immersed in His grace + protection,
-  - responding w/ gentleness + peace
-
-v4: gentleness: meek, strength withheld
-v4: quiet: still water, undisturbed, equanimity
-+ s.times think must fight for self, win respect:
-  - "how can I be gentle? Ppl will walk over me!"
-+ or was peaceful until hubby ruined it:
-  - "I am at peace -- he makes me not at peace!"
-+ can't generate by willpower / trying harder
-  - fruit of your spirit as transformed by HS
-+ rooted in identity as God's beloved daughter
-  - indep of circumstances: shows power
-+ doesn't decay, spoil, corrupt
-
-v4: great worth: valuable, riches
-+ God deems gentle+quiet spirit as good thing
-+ let go of "right to be angry"
-+ endure suff. bc God calls us to righteousness
-
-+ but that's not me! 
-+ "well-behaved women seldom make history" (Laurel Thatcher Ulrich)
-  - obs of way things are, not how should be
-  - not: misbehave to make history
-  - but: history has overlooked impact of many gentle + quiet women
-+ hidden: not inscrutable / enigmatic / duplicitous
-  - but precious, treasured, sacred
-+ gentle: meek, strong enough to be accommodating
-+ quiet: tranquil, undisturbed water, even
+______
++ "precious": great **worth**: valuable, riches
+  + God deems gentle+quiet spirit as **good** thing
++ let go of "**right** to be angry"
+  + **endure** suff. bc God **calls** to righteousness
 
 ---
 <!-- .slide: data-background="white" -->
@@ -224,39 +261,66 @@ v4: great worth: valuable, riches
 
 ---
 For this is how the **holy women** <br>
-who **hoped** in God used to adorn themselves,
+who **hoped in God** used to adorn themselves,
 
+[1 Peter 3:5a (ESV)](# "rev")
+
+>>>
++ adorn (cosmos) self: effort, intent
+
+---
+When he was reviled, he did not **revile** in return; <br>
+when he suffered, he did not **threaten**,
+
+but continued **entrusting** himself <br>
+to him who judges **justly**
+
+[1 Peter 2:23 (ESV)](# "rev")
+
+>>>
+
+---
 by **submitting** to their own husbands, <br>
 [6](# "ref")
 as **Sarah** obeyed Abraham, calling him **lord**. 
 
+[1 Peter 3:5b-6a (ESV)](# "rev")
+
+>>>
++ Sarah (Gen18): even doubted angels, but trusted hubby
+
+---
+For the **eyes** of the Lord are on the **righteous**,<br>
+and his **ears** are open to their **prayer**.
+
+[1 Peter 3:12 (ESV)](# "rev")
+
+>>>
+
+---
 And you are her children, <br>
 if you do **good** and do not fear <br>
 anything that is **frightening**.
 
-[1 Peter 3:5-6 (ESV)](# "rev")
+[1 Peter 3:6b (ESV)](# "rev")
 
 >>>
-+ adorn (cosmos) self: effort, intent
-+ submit to own hubby (not all men)
-  - position underneath
-  - helper: avail, but wait for his lead
-  (most things hubby won't care, delegate)
-+ Sarah (Gen18): even doubted angels, but trusted hubby
++ "frightening": terror
++ cf v2 "respectful": in fear
++ just keep doing what is **good** in God's eyes
 
-v5: hoped in God
-+ c.f. 2:23: Christ didn't respond in kind, but
-  - gave over to One who judges righteously
+---
+Have no **fear** of them, nor be **troubled**
 
-v6: frightening/terror
-+ don't **revenge**: c.f. v9, 12
-+ don't **fear** what they fear: v14
-+ v2 fear
-+ doing what is good
+[1 Peter 3:14 (ESV)](# "rev")
+
+>>>
++ do not **fear** their **fear**
++ "troubled": stirred back+forth, agitated, restless
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# Who are the **mothers** <br> in the faith <br> I can learn from?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -270,84 +334,118 @@ v6: frightening/terror
 Likewise, **husbands**, **live** with your wives <br>
 in an **understanding** way, 
 
-showing **honor** to the woman <br>
-as the **weaker** vessel, 
-
-since they are **heirs** with you of the grace of life, <br>
-so that your **prayers** may not be hindered.
-
-[1 Peter 3:7 (ESV)](# "rev")
+[1 Peter 3:7a (ESV)](# "rev")
 
 >>>
-+ likewise: all above applies to hubbies, too
-+ live: household, dwelling, daily home life
-+ according to knowledge
-+ weaker (cmp) vessel (utility, body)
-+ give: apportion, assign, distribute
-  - she deserves honor, i need to give it to her
-+ fellow heirs of grace of life
-  - God deemed her worthy, chose us to be team
-  - don't try to change wife into a man! 
-  - diff thinking, approach to decision making, notice / attuned
-  - treasure those diffs even as work together toward common goal of serving Christ
++ "likewise": all above applies to hubbies, too
+  + for sake of righteousness,
+  + endure what might seem unfair
++ "live with": **dwell**, house: daily life, be present
+  + know the theory vs live it out
+  + SS kids tell all family secrets!
++ **daily**: not just about the one time I did sth nice
+  + **"temporary"** stress becomes long-term 
+  + becomes **habit** becomes way of life
++ "understanding": acc **knowledge**
+  + observe **reality**, way things are
+  + "just when think I know her, she confuses me!"
++ Know God's **Word** + God's **people** (daughter)
++ how God made **marriage**, how He made **her**
+  + and how **my actions** affect her
++ e.g., wife: "why **yelling** at me?"
+  + not **malicious**, but **ignorant** / unaware
+  + pressing **gas pedal** harder than I thought
 
-v7: similarly: same principle:
-+ for sake of righteousness,
-+ endure what might seem unfair
+---
+showing honor to the woman <br>
+as the **weaker vessel**, 
 
-v7: live with: dwell, house: daily life, be present
-+ know the theory vs live it out
-+ SS kids tell all family secrets!
-+ not just about the one time I did sth nice
-+ "temporary" stress becomes long-term becomes habit becomes way of life
+[1 Peter 3:7b (ESV)](# "rev")
 
-v7: knowledge: observe reality, way things are
-+ "just when think I know her, she foils me!"
-+ know God's Word + God's people (daughter)
-+ how God made marriage, how He made her
-  - and how my actions affect her
-+ e.g., wife: "why yelling at me?"
-  - not malicious, but ignorant / unaware
-  - pressing gas pedal harder than I thought
+>>>
++ "weaker": as sickly, less **capacity** to fight/move
+  + wife as help-meet: unique **strength**
+  + God-designed mutual **dependency**
++ "vessel": **utility**, fit for purpose, body
++ How should we **treat** those who are weaker? 
+  + **belittle** / look down on / less imp? 
 
-v7: weaker: as sickly, less capacity to fight/mov
-+ wife as help-meet: strength
-+ vessel: of use, fit for purpose, body
-+ submit: position underneath leadership
-+ God-designed mutual dependency
-+ how should we treat the weaker? 
-  - belittle / look down on / less imp? 
-+ members of body: special honour, protect
-  - cf v4 hidden: how she treats own heart
-  - here: how hubby treats her heart
+---
+On the contrary, the parts of the body <br>
+that seem to be **weaker** are **indispensable**, 
 
-v7: assign honor as co-heir
-+ God deems her worthy of honour
-  - so should you
-+ not just "consider" / think (internal)
-  - but distribute, hand out, give:
-  - God gave you role to give her honor
-+ appreciate her as co-heir:
-  - things learned by watching her, not taught:
-+ deeper understanding of how God saves us
-  - what faith means
-  - effect of pain/suffering, finding grace
-  - trusting God when life doesn't make sense
+[23](# "ref")
+and on those parts of the body that we think <br>
+**less** honorable we bestow the **greater honor**, 
 
-v7: prayers:
-+ neglecting to understand + honor wife
-  - harms my rl w/God
-+ bc God's plan that I learn Christ's love for me
-  - by learning to love her
-+ doing so habitually improves my prayer life
-  - hubbies: prayer life needs improvement?
+and our **unpresentable** parts <br>
+are treated with greater **modesty**
+
+[1 Corinthians 12:22-23 (ESV)](# "ref")
+
+>>>
++ Same word "**weaker**": 
++ so she is **indispensable**: necessary
++ constrained: can't **survive** w/o her
++ cf v4 hidden: how she treats own heart
++ here: how hubby treats her heart
+
+---
+**showing honor** to the woman <br>
+as the weaker vessel, 
+
+[1 Peter 3:7b (ESV)](# "rev")
+
+>>>
++ "show": **apportion**, assign, distribute
+  + she **deserves** honor, i need to **give** it
++ not just "**consider**" / think (internal)
+  - but distribute, hand out, **give**:
+  - God gave you **role** to give her honor
+
+---
+since they are **heirs** with you <br>
+of the **grace** of life
+
+[1 Peter 3:7c (ESV)](# "rev")
+
+>>>
++ **Co-heirs** of Christ's grace
+  - God deemed her **worthy**, chose us to be **team**
++ Don't try to change wife into a **man**! 
+  - diff **thinking**, approach to **decision** making,
+  + things she **notices** / attuned
++ **Treasure** those diffs even as **work together**
+  + toward common **goal** of serving Christ
++ Things I **learn** by watching her life, w/o words:
+  + deeper understanding of how God **saves** us
+  + effect of **pain**/suffering, finding **grace**
+  + what **faith** means
+  + **trusting** God when life doesn't make **sense**
+
+---
+so that your **prayers** may not be hindered.
+
+[1 Peter 3:7c (ESV)](# "rev")
+
+>>>
++ **neglecting** to understand + **honor** wife
+  - **harms** my rl w/God
++ bc it's God's **plan** that I learn Christ's love
+  - by learning to **love her**
++ Doing so **habitually** improves my prayer life
+  - hubbies: **prayer life** needs improvement?
 
 ---
 <!-- .slide: data-background="white" -->
-# Q4
+# How do I **treat** those <br> **weaker** than myself?
 <!-- .element: class="r-fit-text" -->
 
 >>>
++ Specifically, **husbands** to own wife:
++ "Get out of my **way**, I can do this **faster** myself"
++ "Why can't you handle such tiny **setback**?"
+  + "not a big deal, **toughen** up!"
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
