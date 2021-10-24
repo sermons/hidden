@@ -1,6 +1,7 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-E0e1NmVclRo-mist_lake.jpg") %> id="title" -->
 # The Hidden Person of the Heart
 ## 1 Peter 3:1-7 
+[Anna Goncharova](https://unsplash.com/photos/E0e1NmVclRo "caption")
 
 >>>
 + 1st yrs of marr: **joy**, rewarding
@@ -35,6 +36,7 @@ ______
 *(SKIP READ)*
 
 ---
+<!-- .slide: <%= bg("unsplash-6tfO1M8_gas-forest_mist_beams.jpg") %> -->
 But you are a **chosen** race, <br>
 a **royal** priesthood, a **holy** nation, <br>
 a people for his **own** possession, 
@@ -44,6 +46,7 @@ of him who called you **out of darkness** <br>
 into his **marvelous light**.
 
 [1 Peter 2:9 (ESV)](# "ref")
+[Chris Lawton](https://unsplash.com/photos/6tfO1M8_gas "caption")
 
 >>>
 + Theme 1Pet: in light of God's **calling**
@@ -54,12 +57,12 @@ into his **marvelous light**.
 + **ch3A**: in Greek, 4 sentences:
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" id="outline" -->
+<!-- .slide: <%= bg("unsplash-E0e1NmVclRo-mist_lake.jpg") %> class="outline" id="outline" -->
 ## 1 Peter 3:1-7
-1. Strength in Submission [(v1-2)](# "ref")
-1. Beauty in Gentleness [(v3-4)](# "ref")
-1. Mothers in the Faith [(v5-6)](# "ref")
-1. Honour to the Weak [(v7)](# "ref")
+1. **Strength** in Submission [(v1-2)](# "ref")
+1. **Beauty** in Gentleness [(v3-4)](# "ref")
+1. **Mothers** in the Faith [(v5-6)](# "ref")
+1. **Honour** to the Weak [(v7)](# "ref")
 
 >>>
 + **Princps** apply to both wife+hub
@@ -68,10 +71,12 @@ into his **marvelous light**.
   + God's **chosen** holy ones
 
 ---
+<!-- .slide: <%= bg("unsplash-5BB_atDT4oA-wedding_couple.jpg") %> -->
 Likewise, wives, <br>
 be **subject** to your own husbands,
 
 [1 Peter 3:1a (ESV)](# "rev")
+[Nathan Dumlao](https://unsplash.com/photos/5BB_atDT4oA "caption")
 
 >>>
 + *likews:* endure **suff** bc do good
@@ -87,6 +92,7 @@ be **subject** to your own husbands,
 + Same word in prev ch: **servants**:
 
 ---
+<!-- .slide: <%= bg("unsplash-gtVrejEGdmM-chain.jpg") %> -->
 **Servants**, be subject <br>
 to your masters with all **respect**, 
 
@@ -105,11 +111,13 @@ but also to the **unjust**
 + In fact,
 
 ---
+<!-- .slide: <%= bg("unsplash-0Hf3SuP-Muc-diamond_ring.jpg") %> -->
 so that even if some do **not obey** the word, <br>
 they may be **won** without a word <br>
 by the conduct of their wives
 
 [1 Peter 3:1b (ESV)](# "rev")
+[Anne Edgar](https://unsplash.com/photos/0Hf3SuP-Muc "caption")
 
 >>>
 + *not obey:* **disbelief** / faithless
@@ -128,12 +136,14 @@ by the conduct of their wives
 + Num16 **Korahites**: prior to God's judg:
 
 ---
+<!-- .slide: <%= bg("unsplash-8EFA86nI6yg-desert_cracks.jpg") %> -->
 **Depart**, please, <br>
 from the tents of these **wicked** men, <br>
 and **touch** nothing of theirs, <br>
 lest you be **swept away** with all their sins.
 
 [Numbers 16:26 (ESV)](# "ref")
+[Brad Helmink](https://unsplash.com/photos/8EFA86nI6yg "caption")
 
 >>>
 + **Earth** swallowed up: not just sinner
@@ -149,10 +159,12 @@ lest you be **swept away** with all their sins.
 + Wife's **testimony** can be powerful:
 
 ---
+<!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
 when they see your <br>
 **respectful** and **pure** conduct. 
 
 [1 Peter 3:2 (ESV)](# "rev")
+[Ben White](https://unsplash.com/photos/qYanN54gIrI "caption")
 
 >>>
 + "conduct": turn, **daily life** (not words)
@@ -191,13 +203,19 @@ ______
   + unshakeable **faith** in God
 
 ---
-(outline)
+<!-- .slide: <%= bg("unsplash-E0e1NmVclRo-mist_lake.jpg") %> class="outline" -->
+## 1 Peter 3:1-7
+1. Strength in Submission [(v1-2)](# "ref")
+1. **Beauty in Gentleness** [(v3-4)](# "ref")
+1. Mothers in the Faith [(v5-6)](# "ref")
+1. Honour to the Weak [(v7)](# "ref")
 
 >>>
 + Where does **beauty** come from?
 + Is it **wrong** to want to look beaut?
 
 ---
+<!-- .slide: <%= bg("unsplash-urfVdTSFKfo-girl_hair_flowers.jpg") %> -->
 Do not let your **adorning** be external —
 
 the braiding of **hair** <br>
@@ -205,6 +223,7 @@ and the putting on of gold **jewelry**, <br>
 or the **clothing** you wear —
 
 [1 Peter 3:3 (ESV)](# "rev")
+[Gdynia, Poland](https://unsplash.com/photos/urfVdTSFKfo "caption")
 
 >>>
 + beauty rl to **self-image**: dress up 
@@ -219,6 +238,7 @@ or the **clothing** you wear —
   - hubbies: **apprec** / cultiv in wife
 
 ---
+<!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> -->
 but let your adorning be <br>
 the **hidden** person of the **heart**
 
@@ -242,10 +262,12 @@ ______
   - respond w/ **gentle** + peace:
 
 ---
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> -->
 with the imperishable beauty <br>
 of a **gentle** and **quiet** spirit
 
 [1 Peter 3:4b (ESV)](# "rev")
+[Alex Jones](https://unsplash.com/photos/p0W9Q9gei4g "caption")
 
 >>>
 + "gentle": **meek**, strength withheld
@@ -273,6 +295,7 @@ ______
 *(SKIP READ)*
 
 ---
+<!-- .slide: <%= bg("unsplash-p0W9Q9gei4g-silhouette.jpg") %> -->
 with the **imperishable** beauty <br>
 of a **gentle** and **quiet** spirit, 
 
@@ -313,7 +336,12 @@ which in God's sight is very **precious**.
   + God **calls** us to righteousness
 
 ---
-(outline)
+<!-- .slide: <%= bg("unsplash-E0e1NmVclRo-mist_lake.jpg") %> class="outline" -->
+## 1 Peter 3:1-7
+1. Strength in Submission [(v1-2)](# "ref")
+1. Beauty in Gentleness [(v3-4)](# "ref")
+1. **Mothers in the Faith** [(v5-6)](# "ref")
+1. Honour to the Weak [(v7)](# "ref")
 
 >>>
 + Too **hard** to do **alone**:
@@ -322,10 +350,12 @@ which in God's sight is very **precious**.
   + and enc of **saints** gone bf:
 
 ---
+<!-- .slide: <%= bg("BibPano_Ruth_Boaz.jpg") %> -->
 For this is how the **holy women** <br>
 who **hoped in God** used to **adorn** themselves,
 
 [1 Peter 3:5a (ESV)](# "rev")
+["Ruth Gleans in the Fields of Boaz", Bible Panorama, 1891](https://www.flickr.com/photos/internetarchivebookimages/14598288918 "caption")
 
 >>>
 + Not just **sisterhood** of peers
@@ -336,6 +366,7 @@ who **hoped in God** used to **adorn** themselves,
 + *hoped in God:* just as **Jesus** did:
 
 ---
+<!-- .slide: <%= bg("unsplash-o--lefJNe0w-cross.jpg") %> -->
 When he was reviled, he did not **revile** in return; <br>
 when he suffered, he did not **threaten**,
 
@@ -343,6 +374,7 @@ but continued **entrusting** himself <br>
 to him who judges **justly**
 
 [1 Peter 2:23 (ESV)](# "rev")
+[Aaron Burden](https://unsplash.com/photos/o--lefJNe0w "caption")
 
 >>>
 + Tolerate, **suppress**: build up
@@ -353,11 +385,13 @@ to him who judges **justly**
   + so **hope** in God
 
 ---
+<!-- .slide: <%= bg("unsplash-Ht5XmeuLyDg-camel_mtns_silh.jpg") %> -->
 by **submitting** to their own husbands, <br>
 [6](# "ref")
 as **Sarah** obeyed Abraham, calling him **lord**. 
 
 [1 Peter 3:5b-6a (ESV)](# "rev")
+[Egypt. Mariam Soliman](https://unsplash.com/photos/Ht5XmeuLyDg "caption")
 
 >>>
 + OT doesn't say much **good** on Sarah 
@@ -368,24 +402,28 @@ as **Sarah** obeyed Abraham, calling him **lord**.
 + Even doubt **angels**, but trust **husb**
 
 ---
+<!-- .slide: <%= bg("unsplash-ibWxfQOePt4-fist.jpg") %> -->
 And you are her children, <br>
 if you do **good** and do not fear <br>
 anything that is **frightening**.
 
 [1 Peter 3:6b (ESV)](# "rev")
+[Luis Quintero](https://unsplash.com/photos/ibWxfQOePt4 "caption")
 
 >>>
 + *frightening:* **terror**, intimidation
 + **Bullies** fear man: what ppl think
   + so use fear to **intimid**
   + others into **respecting** them
-+ Do not fear **them** 
++ Do not fear either **them** 
   + or what **they** fear:
 
 ---
+<!-- .slide: <%= bg("unsplash-89PFnHKg8HE-yosemite_forest.jpg") %> -->
 Have no **fear** of them, nor be **troubled**
 
 [1 Peter 3:14 (ESV)](# "rev")
+[Yosemite Valley.  John Towner](https://unsplash.com/photos/89PFnHKg8HE "caption")
 
 >>>
 + Do not **fear** their **fear**
@@ -409,7 +447,12 @@ Have no **fear** of them, nor be **troubled**
 + Don't even have to **know** personally
 
 ---
-(outline)
+<!-- .slide: <%= bg("unsplash-E0e1NmVclRo-mist_lake.jpg") %> class="outline" -->
+## 1 Peter 3:1-7
+1. Strength in Submission [(v1-2)](# "ref")
+1. Beauty in Gentleness [(v3-4)](# "ref")
+1. Mothers in the Faith [(v5-6)](# "ref")
+1. **Honour to the Weak** [(v7)](# "ref")
 
 >>>
 + In light of God's **calling** to holy,
@@ -419,10 +462,12 @@ Have no **fear** of them, nor be **troubled**
 + All this applies to **husb**, too:
 
 ---
+<!-- .slide: <%= bg("unsplash-llWjwo200fo-wedding_hands.jpg") %> -->
 Likewise, husbands, **live** with your wives <br>
 in an **understanding** way, 
 
 [1 Peter 3:7a (ESV)](# "rev")
+[Drew Coffman](https://unsplash.com/photos/llWjwo200fo "caption")
 
 >>>
 + *live with:* **dwell**, house: daily life
@@ -432,7 +477,6 @@ in an **understanding** way,
   + becomes **habit** becomes way of life
 ______
 + *understanding:* acc **knowledge**
-  + Observe **reality**, way things are
 + Seek to understand: God's **Word**
   + and God's **people** (her + me)
 + How God made **marriage**, 
@@ -444,10 +488,12 @@ ______
 + press **gas pedal** harder than thought
 
 ---
+<!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> -->
 showing honor to the woman <br>
 as the **weaker vessel**, 
 
 [1 Peter 3:7b (ESV)](# "rev")
+[Warsaw, Poland. FreeStocks](https://unsplash.com/photos/r_oV6smBBYk/info "caption")
 
 >>>
 + *weaker:* as of the sickly, 
@@ -456,11 +502,12 @@ as the **weaker vessel**,
   + Husb: comfort, **stability**
   + God-designed mutual **dependency**
 + *vessel:* **utility**, fit for purpose
-  + **body**: impl. intent
+  + **body**: impl. of mind's intent
 + How should we **treat** those weaker? 
   + **belittle** / look down / less imp? 
 
 ---
+<!-- .slide: <%= bg("unsplash-cpyEmA5b6EI-dancers.jpg") %> -->
 On the contrary, the parts of the body <br>
 that seem to be **weaker** are **indispensable**, 
 
@@ -481,6 +528,7 @@ are treated with greater **modesty**
 + Here: how **husb** treats her heart
 
 ---
+<!-- .slide: <%= bg("unsplash-r_oV6smBBYk-hearts_bokeh.jpg") %> -->
 **showing honor** to the woman <br>
 as the weaker vessel, 
 
@@ -494,10 +542,12 @@ as the weaker vessel,
   + gave you **role** to give to her
 
 ---
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 since they are **heirs** with you <br>
 of the **grace** of life
 
 [1 Peter 3:7c (ESV)](# "rev")
+[Ju On](https://unsplash.com/photos/e6XsI7qqvAA "caption")
 
 >>>
 + **Co-heirs** of Christ's grace:
@@ -520,9 +570,11 @@ ______
 + Give her **honour**, so that
 
 ---
+<!-- .slide: <%= bg("unsplash-fgmf2Eyrwm4-bible.jpg") %> -->
 so that your **prayers** may not be hindered.
 
 [1 Peter 3:7c (ESV)](# "rev")
+[Aaron Burden](https://unsplash.com/photos/fgmf2Eyrwm4 "caption")
 
 >>>
 + **Neglecting** underst + **honor** wife
@@ -553,7 +605,7 @@ so that your **prayers** may not be hindered.
   + to bestow **honour** to her
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-E0e1NmVclRo-mist_lake.jpg") %> class="empty" -->
 
 >>>
 + **Gift** of marriage:
