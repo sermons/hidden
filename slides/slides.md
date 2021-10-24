@@ -18,7 +18,7 @@
 <!-- .element: class="r-fit-text" -->
 
 >>>
-+ When marriage **strained** / challg
++ When marr **strained** / challeng
 + **Seasons**: feel can't live **w/o** e.o
   + fear can't **go on**: irrec diff
 + Regrdls of **other** person, how do I
@@ -51,8 +51,9 @@ into his **marvelous light**.
 [Chris Lawton](https://unsplash.com/photos/6tfO1M8_gas "caption")
 
 >>>
-+ 1Pet theme: in light of God's **calling**
-  + live **holy** lives
++ 1Pet theme: **called** out of dark,
+  + so in light of God's **calling**
++ live **holy** lives
   + in the **unfairness** of **grace**:
 + **Received** grace, now **show** to others
   + endure **unjust** suff for rightns
