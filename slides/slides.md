@@ -14,7 +14,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# How can I <br> **honour** God amid a <br> **strained** marriage?
+# How can I <br> **honour** God amid a <br> **challenging** marriage?
 <!-- .element: class="r-fit-text" -->
 
 >>>
@@ -63,6 +63,8 @@ into his **marvelous light**.
 1. **Beauty** in Gentleness [(v3-4)](# "ref")
 1. **Mothers** in the Faith [(v5-6)](# "ref")
 1. **Honour** to the Weak [(v7)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + **Princps** apply to both wife+hub
@@ -248,7 +250,7 @@ the **hidden** person of the **heart**
 + "hidden" (encrypted)
   + not **obfusc**, inscrutable, duplicit
 + Tho **men**: she makes no sense
-  + tho **women**: don't understand myself
+  + tho **women**: don't underst self
 + But **covered**: 
   + protected, precious, treasured
 
@@ -429,9 +431,9 @@ Have no **fear** of them, nor be **troubled**
 + Do not **fear** their **fear**
 + *troubled:* **stirred** back+forth, 
   + **agitated**, restless
-+ Instead: v2 "respectful + pure conduct":
++ Instead: v2 "respect + pure cond":
   + in **fear** of the Lord
-+ Keep doing what is **good** in God's eyes
++ Keep doing **good** in God's eyes
 + And you'll be in **good company**
   + w/**saints** of old
 
@@ -473,8 +475,8 @@ in an **understanding** way,
 + *live with:* **dwell**, house: daily life
   + Know the **theory** vs live it out
 + Not just **one time** I did sth nice
-+ **"Temporary"** stress becomes long-term 
-  + becomes **habit** becomes way of life
++ **"Temp"** stress &Rarr; long-term 
+  + &Rarr; **habit** &Rarr; way of life
 ______
 + *understanding:* acc **knowledge**
 + Seek to understand: God's **Word**
