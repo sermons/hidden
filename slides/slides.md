@@ -17,10 +17,22 @@
 >>>
 
 ---
-(review)
+But you are a **chosen** race, <br>
+a **royal** priesthood, a **holy** nation, <br>
+a people for his **own** possession, 
+
+that you may proclaim the excellencies <br>
+of him who called you **out of darkness** <br>
+into his **marvelous light**.
+
+[1 Peter 2:9 (ESV)](# "ref")
 
 >>>
-+ 1Pet theme: living holily under unfair grace
++ 1Pet theme: in light of God's **calling**
++ live **holy** lives
++ in the **unfairness** of **grace**:
++ having **rcvd** His grace, now **show** to others
+  + endure **unjust** suff for righteousness
 
 C.f. 2:15 ignorant, inconsiderate
 + just want them to close mouth:
@@ -36,6 +48,10 @@ C.f. 2:15 ignorant, inconsiderate
 
 >>>
 + 4 **sentences** in Greek
++ Mostly for **wives**, but same **princip** for husb
++ Those who might marry in **future**: smart!
++ **Practical** examples how to live as 
+  + God's **chosen** holy ones
 
 ---
 Likewise, **wives**, <br>
@@ -44,13 +60,13 @@ be **subject** to your own husbands,
 [1 Peter 3:1a (ESV)](# "rev")
 
 >>>
-+ **own** husband: not "all women to all men"
-+ "be subject": position underneath, attitude
++ **own** husband: not "**all** women to all men"
++ "be subject": **position** underneath
   + not blind **obedience**, servant, slave
-  + **helper**: avail, but wait for his lead
-+ most things hubby won't care, delegate
-+ sure, willing to submit to good + kind hubby
-  + but also to crooked? 
++ Attitude of **helper**: avail, wait for his lead
++ "Sure, willing to submit to **good** + kind hubby
+  + but also to **crooked**?"
++ Prev ch addressed **servants**:
 
 ---
 **Servants**, be subject <br>
@@ -62,6 +78,9 @@ but also to the **unjust**
 [1 Peter 2:18 (ESV)](# "ref")
 
 >>>
++ Christ set **example**,
+  + endured **suff** by **sinful** men
+  + on **our** behalf
 + **respect**: fear (of the Lord)
 
 ---
@@ -340,6 +359,7 @@ in an **understanding** way,
 + **daily**: not just about the one time I did sth nice
   + **"temporary"** stress becomes long-term 
   + becomes **habit** becomes way of life
+______
 + "understanding": acc **knowledge**
   + observe **reality**, way things are
   + "just when think I know her, she confuses me!"
