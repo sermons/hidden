@@ -64,8 +64,6 @@ into his **marvelous light**.
 1. **Mothers** in the Faith [(v5-6)](# "ref")
 1. **Honour** to the Weak [(v7)](# "ref")
 
-<!-- .element: class="r-fit-text" -->
-
 >>>
 + **Princps** apply to both wife+hub
 + Might marry in **future**? smarter!
