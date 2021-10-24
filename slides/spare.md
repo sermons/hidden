@@ -50,3 +50,11 @@ and his **ears** are open to their **prayer**.
 
 [1 Peter 3:12 (ESV)](# "rev")
 
+---
+Have no **fear** of them, nor be **troubled**
+
+[1 Peter 3:14 (ESV)](# "rev")
+
+>>>
++ *troubled:* **stirred** back+forth, 
+  + **agitated**, restless
