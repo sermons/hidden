@@ -59,6 +59,9 @@ into his **marvelous light**.
   + endure **unjust** suff for rightns
 + **ch3A**: in Greek, 4 sentences:
 
+______
++ #TODO: switch **key vs** to focus on suffering
+
 ---
 <!-- .slide: <%= bg("unsplash-E0e1NmVclRo-mist_lake.jpg") %> class="outline" id="outline" -->
 ## 1 Peter 3:1-7
@@ -163,6 +166,9 @@ lest you be **swept away** with all their sins.
   + get **out** of situation,
   + seek qual **help** w/o him knowing)
 + Wife's **testimony** can be powerful:
+
+______
++ #TODO: examples of mental/verbal abuse
 
 ---
 <!-- .slide: <%= bg("unsplash-qYanN54gIrI-praying.jpg") %> -->
