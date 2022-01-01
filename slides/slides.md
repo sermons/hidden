@@ -86,7 +86,7 @@ be **subject** to your own husbands,
 [Nathan Dumlao](https://unsplash.com/photos/5BB_atDT4oA "caption")
 
 >>>
-+ **Central** to Bib role of wife
++ **Central** to Bib role wife: Col, Tit, 1Tim
   + *like:* endure **suff** bc do good
   + Eph5: submit e.o.: **rever** Chr
   + *own husb:* not "**all** F to all M"
@@ -162,9 +162,6 @@ lest you be **swept away** with all their sins.
 + e.g., hubby forbids kids to **church**:
   + Craft env: kids learn God's **love**
   + **Train** + instr of Lord
-+ (If fear own **safety** or children's:
-  + get **out** of situation,
-  + seek qual **help** w/o him knowing)
 + Wife's **testimony** can be powerful:
 
 ______
